@@ -21,10 +21,10 @@ L’analyse de la rentabilité portera sur :
     - La formation du résultat à travers le TSIG en mettant en évidence les principaux soldes (VA, EBE, REX, RF)
     - La rentabilité financière
     - La rentabilité économique
-    - Et le lien qui existe entre les deux à travers l’effet de levier.
+    - Et le lien qui existe entre les deux à travers de l’effet de levier.
 L’analyse du risque portera sur :
     - D’une part, le risque d’exploitation et le risque financier à travers la notion du seuil de rentabilité;
     - D’autre part, le risque de faillite à travers : 
-    - Le bilan patrimonial: solvabilité, exigibilité et liquidité
-    - Un bilan fonctionnel: FDR, BFR, Trésorerie
-    - Et les différents tableaux de financement et de trésorerie.
+        - Le bilan patrimonial: solvabilité, exigibilité et liquidité
+        - Un bilan fonctionnel: FDR, BFR, Trésorerie
+        - Et les différents tableaux de financement et de trésorerie.
