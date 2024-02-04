@@ -28,3 +28,15 @@ L’analyse du risque portera sur :
         - Le bilan patrimonial: solvabilité, exigibilité et liquidité
         - Un bilan fonctionnel: FDR, BFR, Trésorerie
         - Et les différents tableaux de financement et de trésorerie.
+
+Besoin
+	Un bilan complet
+	Un compte de resultat complet
+	Un Flux de tresorerie complet
+	Un TSIG complet
+	Des cas pratique
+
+Analyse du compte de resultat
+Analyse de la rentabilite
+Analyse du risque
+Analyse macroeconomique (le secteur d'activite) pour les modeles
