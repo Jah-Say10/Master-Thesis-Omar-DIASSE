@@ -6,3 +6,8 @@ Gestion des dettes
 Rentabilite
 Valorisation
 Risques
+
+//-------------
+
+Diagnositic des etats finaniciers
+Analyse financieres par les ratios

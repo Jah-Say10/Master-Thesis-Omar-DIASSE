@@ -1,0 +1,73 @@
+Verification des etats financiers
+
+Analyse des etats financiers
+    Analyse du compte de resultat
+        Analyse verticale : Calculer la part de tous les element par rapport au CA (Ex: REX/CA)
+        Analyse horizontale : Calculer le taux de croissance de chaque element
+    Analyse du bilan
+        Analyse verticale : Rapporter les elements de l'actifs par rapport au total actifs et faire de meme pour les passif
+        Analyse horizontale : Calculer le taux de croissance de chaque element
+    Analyse du tableau des flus de tresorerie
+        Analyse verticale : Rapporater tous les elements sur la tresorerie finale
+        Analyse horizontale
+
+Analyse de l'activite et des relations de tresorerie
+    Analyse dy cycle de vie de l'activite
+    Analyse du comportement des flux de tresorerie
+    Analyse des equilibres financiers et la relation de tresorerie
+        Bilan economique
+        Les equilibres financiers
+        La relation de tresorerie
+
+Analyse tendencielle et la methode des ratios
+    Profitabilite
+        Calcul des ratios de profitabilite
+        Analyse tendencielle des ratios de profitabilite : comparer toutes les annees de references
+        Representation graphique des ratios de profitibilite
+
+    Rentabilite
+        Calcul des ratios de rentabilite economique
+        Analyse tendencielle des ratios de profitabilite : comparer toutes les annees de references
+        Representation graphique des ratios de profitibilite
+
+        Calcul des ratios de rentabilite financiere
+        Analyse tendencielle des ratios de profitabilite : comparer toutes les annees de references
+        Representation graphique des ratios de profitibilite
+
+    Politique comptable
+        Calcul des ratios de politque comptable
+        analyse tendencielle des ratios de politque comptable
+        Representation graphique des ratios de politque comptable
+
+    Liquidite
+        Calcul des ratios de liquidite
+        analyse tendencielle des ratios de liquidite
+        Representation graphique des ratios de liquidite
+
+    Gestion de la dette
+        Calcul des ratios de Gestion de la dette
+        analyse tendencielle des ratios de Gestion de la dette
+        Representation graphique des ratios de Gestion de la dette
+
+    Flux de tresorerie
+        Calcul des ratios de Flux de tresorerie
+        analyse tendencielle des ratios de Flux de tresorerie
+        Representation graphique des ratios de Flux de tresorerie
+
+    efficassite des actifs de BFG
+        Calcul des ratios de efficassite des actifs de BFG
+        analyse tendencielle des ratios de efficassite des actifs de BFG
+        Representation graphique des ratios de efficassite des actifs de BFG
+
+    valorisation
+        Calcul des ratios de valorisation
+        analyse tendencielle des ratios de valorisation
+        Representation graphique des ratios de valorisation
+
+    Analyse de la probabilite de defauts
+        Quelques informations boursieres
+        Calcul du Zscore de Altman (La methode de Altman de 2005)
+        Score de la banque de france
+        La methode de Ohlson
+
+=IF(C855>8.15,"AAA",IF(C855>7.6,"AA+",IF(C855>7.3,"AA",IF(C855>7,"AA-",IF(C855>6.85,"A+",IF(C855>6.65,"A",IF(C855>6.4,"A-",IF(C855>6.25, "BBB+",IF(C855>5.85, "BBB", IF(C855>5.65,"BBB-", IF(C855>5.25, "BB+", IF(C855>4.95, "BB", IF(C855>4.75, "BB-", IF(C855>4.5, "B+", IF(C855>4.15, "B", IF(C855>3.75, "B-", IF(C855>3.2, "CCC+", IF(C855>2.5, "CCC", IF(C855>1.75, "CCC-", IF(C855<1.75,"D", ""))))))))))))))))))))
