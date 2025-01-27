@@ -1,0 +1,11 @@
+1. Salutation formelle classique
+“Bonjour à toutes et à tous,
+Je vous remercie de m’accorder un peu de votre temps aujourd’hui. Je suis ravi(e) de pouvoir partager avec vous les résultats de mon travail sur l’application de l’intelligence artificielle à la finance.”
+
+2. Salutation plus enthousiaste
+“Bonjour à toutes et à tous,
+C’est un réel plaisir d’être ici devant vous aujourd’hui pour présenter mon mémoire sur un sujet qui me passionne : l’intelligence artificielle appliquée à la finance. Merci d’avoir pris le temps de venir écouter ma présentation.”
+
+3. Salutation plus décontractée (si le contexte le permet)
+“Bonjour à toutes et à tous,
+Merci d’être ici aujourd’hui. C’est un honneur de pouvoir vous parler de mon projet sur l’IA et la finance, un sujet que je trouve non seulement fascinant, mais aussi particulièrement d’actualité.”
