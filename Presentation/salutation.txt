@@ -1,3 +1,4 @@
+SALUTATIONS
 1. Salutation formelle classique
 “Bonjour à toutes et à tous,
 Je vous remercie de m’accorder un peu de votre temps aujourd’hui. Je suis ravi(e) de pouvoir partager avec vous les résultats de mon travail sur l’application de l’intelligence artificielle à la finance.”
@@ -9,3 +10,6 @@ C’est un réel plaisir d’être ici devant vous aujourd’hui pour présenter
 3. Salutation plus décontractée (si le contexte le permet)
 “Bonjour à toutes et à tous,
 Merci d’être ici aujourd’hui. C’est un honneur de pouvoir vous parler de mon projet sur l’IA et la finance, un sujet que je trouve non seulement fascinant, mais aussi particulièrement d’actualité.”
+
+ACCROCHE
+Il existe un jeu asiatique appelé le Go, dont le principe est d'encercler totalement les pierres de l'adversaire. C'est un jeu assez difficile en raison de sa complexité et du grand nombre de stratégies possibles. Lorsqu'ils ont voulu développer une IA pour ce jeu, les scientifiques se sont heurtés à un mur, certains pensaient même que cela n'était pas possible. Mais en 2016, AlphaGo a surpris le monde en développant une IA qui a battu le champion du monde. Et à ce moment-là, le monde a pris conscience de la puissance de l'IA. Cependant, il existe des applications bien plus sérieuses de l'IA que les jeux de stratégie, notamment dans la finance, domaine qui nous intéressera aujourd'hui.
